@@ -1,0 +1,13 @@
+thedate,dow,dest,method,minutes_to_train,waiting_for_train,train_ride,seatp,problemsp,to_library
+2018-1-9,tuesday,to_work,c_163,4,5,22,TRUE,FALSE,17
+2018-1-10,wednesday,to_work,c_163,5,10,44,FALSE,TRUE,16
+2018-1-11,thursday,to_work,c_163,5,7,27,TRUE,FALSE,14
+2018-1-12,friday,to_work,c_163,5,0,24,TRUE,FALSE,13
+2018-1-16,tuesday,to_work,c_163,5,3,25,TRUE,FALSE,14
+2018-1-17,wednesday,to_work,c_163-d_59,6,6,NA,TRUE,FALSE,38
+2018-1-18,thursday,to_work,c_163,4,5,28,TRUE,TRUE,12
+2018-1-19,friday,to_work,c_163,5,1,25,TRUE,FALSE,12
+2018-1-23,tuesday,to_work,c_163,5,2,23,TRUE,FALSE,12
+2018-1-24,wednesday,to_work,c_163,5,1,27,TRUE,FALSE,14
+2018-1-25,thursday,to_work,c_163,4,11,25,TRUE,FALSE,12
+2018-1-29,monday,to_work,c_163-d_145,5,NA,NA,TRUE,FALSE,37
