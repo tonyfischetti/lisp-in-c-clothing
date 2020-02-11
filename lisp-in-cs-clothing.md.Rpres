@@ -31,7 +31,6 @@ incremental: true
   - lisp and R homologues
   - is R a lisp?
   - german compound word time!
-
   - case study in probabilistic programming
 
 
@@ -134,7 +133,7 @@ prototype concept theory
 ========================================================
 class: single-image
 
-```{r, echo=FALSE, out.height="70%", out.width="70%"}
+```{r, echo=FALSE, out.height="50%", out.width="50%"}
 knitr::include_graphics("./media/lisp-prototype-theory.jpg", dpi=NULL)
 ```
 

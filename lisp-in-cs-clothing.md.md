@@ -31,7 +31,6 @@ incremental: true
   - lisp and R homologues
   - is R a lisp?
   - german compound word time!
-
   - case study in probabilistic programming
 
 
@@ -134,5 +133,5 @@ prototype concept theory
 ========================================================
 class: single-image
 
-<img src="./media/lisp-prototype-theory.jpg" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="70%" height="70%" />
+<img src="./media/lisp-prototype-theory.jpg" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="50%" height="50%" />
 
