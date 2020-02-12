@@ -6,12 +6,17 @@ date: 2020-02-10
 autosize: true
 css: style.css
 
-instagram: @tony_fischetti_art
+```
 
-blog: onthelambda.com
+`((:instagram @tony_fischetti_art)
+   
+   (:blog "onthelambda.com")
 
-book: data analysis with r
+   (:book "data analysis with r")
 
+   (:twitter @tony_fischetti))
+   
+```
 
 
 but first
@@ -136,3 +141,19 @@ class: single-image
 
 <img src="./media/lisp-prototype-theory.jpg" title="plot of chunk unnamed-chunk-1" alt="plot of chunk unnamed-chunk-1" width="50%" height="50%" />
 
+
+
+fin
+========================================================
+Thanks for coming to my talk! :)
+```
+
+`((:instagram @tony_fischetti_art)
+   
+   (:blog "onthelambda.com")
+
+   (:book "data analysis with r")
+
+   (:twitter @tony_fischetti))
+   
+```

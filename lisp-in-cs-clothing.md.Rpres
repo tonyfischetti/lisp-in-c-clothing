@@ -6,12 +6,17 @@ date: 2020-02-10
 autosize: true
 css: style.css
 
-instagram: @tony_fischetti_art
+```
 
-blog: onthelambda.com
+`((:instagram @tony_fischetti_art)
+   
+   (:blog "onthelambda.com")
 
-book: data analysis with r
+   (:book "data analysis with r")
 
+   (:twitter @tony_fischetti))
+   
+```
 
 
 but first
@@ -138,3 +143,19 @@ class: single-image
 knitr::include_graphics("./media/lisp-prototype-theory.jpg", dpi=NULL)
 ```
 
+
+
+fin
+========================================================
+Thanks for coming to my talk! :)
+```
+
+`((:instagram @tony_fischetti_art)
+   
+   (:blog "onthelambda.com")
+
+   (:book "data analysis with r")
+
+   (:twitter @tony_fischetti))
+   
+```
