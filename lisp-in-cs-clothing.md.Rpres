@@ -65,6 +65,7 @@ incremental: true
   - `bquote` &nbsp;&nbsp;&nbsp;&nbsp; `<backquote>`
   - `parse` &nbsp;&nbsp;&nbsp;&nbsp; `read`/`read-from-string`
   - `as.symbol` &nbsp;&nbsp;&nbsp;&nbsp; `intern`/`read-from-string`
+  - `pairlist` &nbsp;&nbsp;&nbsp;&nbsp; lambda lists
 
   
 
